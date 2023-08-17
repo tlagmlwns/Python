@@ -1,0 +1,8 @@
+count_average : 5.5
+len()_average : 5.5
+count_average : 5.5
+len()_average : 5.5
+count_average : 5.5
+len()_average : 5.5
+count_average : 5.5
+len()_average : 5.5
