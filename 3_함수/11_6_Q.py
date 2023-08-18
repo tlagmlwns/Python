@@ -15,13 +15,3 @@ f = open("result.txt", "+a")
 f.write("count_average : "+str(average1)+"\n")
 f.write("len()_average : "+str(average2)+"\n")
 f.close
-
-import time
-filename = time.strftime("%Y%m%d_%H%M%S")
-print(filename)
-
-f = open(filename + ".txt", "w")
-for item in i:
-    f.write(item)
-    f.write("\n")
-f.close()
